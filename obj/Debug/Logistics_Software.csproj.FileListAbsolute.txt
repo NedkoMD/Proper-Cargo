@@ -1,0 +1,125 @@
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\bin\Debug\Logistics_Software.exe.config
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\bin\Debug\Logistics_Software.exe
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\bin\Debug\Logistics_Software.pdb
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Customers.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Drivers.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Form1.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Login.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Properties.Resources.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Routes.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csproj.CopyComplete
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.exe
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.pdb
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Dashboard.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Vehicles.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Warehouse.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.CustomersAdd.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.DriversAdd.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Menu.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.RoutesAdd.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.StockAdd.resources
+C:\Users\Asus\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.VehiclesAdd.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\bin\Debug\Logistics_Software.exe.config
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\bin\Debug\Logistics_Software.exe
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\bin\Debug\Logistics_Software.pdb
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Customers.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.CustomersAdd.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Dashboard.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Drivers.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.DriversAdd.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Form1.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Login.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Menu.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Properties.Resources.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Routes.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.RoutesAdd.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.StockAdd.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Vehicles.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.VehiclesAdd.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Warehouse.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csproj.GenerateResource.cache
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csproj.CoreCompileInputs.cache
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csproj.CopyComplete
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.exe
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.pdb
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.csproj.AssemblyReference.cache
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.Cargo.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.RoutesMaps.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.CustomersUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.DriversUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.VehiclesUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.StockUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.RoutesUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Курс 4 с1\.NET технологии\Logistics_Software\obj\Debug\Logistics_Software.VehiclesService.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\bin\Debug\Logistics_Software.exe.config
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\bin\Debug\Logistics_Software.exe
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\bin\Debug\Logistics_Software.pdb
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.AssemblyReference.cache
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Cargo.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Customers.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.CustomersAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.CustomersUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Dashboard.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Drivers.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.DriversAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.DriversUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Form1.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Login.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Menu.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Properties.Resources.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Routes.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.RoutesAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.RoutesMaps.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.RoutesUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.StockAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.StockUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Vehicles.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.VehiclesAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.VehiclesService.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.VehiclesUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Warehouse.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.GenerateResource.cache
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.CoreCompileInputs.cache
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.CopyComplete
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.exe
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.pdb
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\bin\Debug\Logistics_Software.exe.config
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\bin\Debug\Logistics_Software.exe
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\bin\Debug\Logistics_Software.pdb
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.AssemblyReference.cache
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Cargo.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Customers.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.CustomersAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.CustomersUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Dashboard.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Drivers.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.DriversAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.DriversUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Form1.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Login.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Menu.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Properties.Resources.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Routes.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.RoutesAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.RoutesMaps.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.RoutesUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.StockAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.StockUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Vehicles.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.VehiclesAdd.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.VehiclesService.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.VehiclesUpdate.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.Warehouse.resources
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.GenerateResource.cache
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.CoreCompileInputs.cache
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.csproj.CopyComplete
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.exe
+C:\Users\Nedko\Desktop\Uni\Дипломна работа\Logistics_Software\Logistics_Software\Logistics_Software\obj\Debug\Logistics_Software.pdb

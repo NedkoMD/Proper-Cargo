@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65F087BA-05D0-4E0A-BC1F-0BA749033B48}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Logistics_Software</RootNamespace>
+    <AssemblyName>Logistics_Software</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargo.Designer.cs">
+      <DependentUpon>Cargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomersAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomersAdd.Designer.cs">
+      <DependentUpon>CustomersAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomersUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomersUpdate.Designer.cs">
+      <DependentUpon>CustomersUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Drivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Drivers.Designer.cs">
+      <DependentUpon>Drivers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriversAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriversAdd.Designer.cs">
+      <DependentUpon>DriversAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriversUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriversUpdate.Designer.cs">
+      <DependentUpon>DriversUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logistics_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Logistics_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Routes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Routes.Designer.cs">
+      <DependentUpon>Routes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoutesAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoutesAdd.Designer.cs">
+      <DependentUpon>RoutesAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoutesMaps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoutesMaps.Designer.cs">
+      <DependentUpon>RoutesMaps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoutesUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoutesUpdate.Designer.cs">
+      <DependentUpon>RoutesUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockAdd.Designer.cs">
+      <DependentUpon>StockAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockUpdate.Designer.cs">
+      <DependentUpon>StockUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicles.Designer.cs">
+      <DependentUpon>Vehicles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VehiclesAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VehiclesAdd.Designer.cs">
+      <DependentUpon>VehiclesAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VehiclesService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VehiclesService.Designer.cs">
+      <DependentUpon>VehiclesService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VehiclesUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VehiclesUpdate.Designer.cs">
+      <DependentUpon>VehiclesUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Warehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warehouse.Designer.cs">
+      <DependentUpon>Warehouse.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cargo.resx">
+      <DependentUpon>Cargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomersAdd.resx">
+      <DependentUpon>CustomersAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomersUpdate.resx">
+      <DependentUpon>CustomersUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Drivers.resx">
+      <DependentUpon>Drivers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriversAdd.resx">
+      <DependentUpon>DriversAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriversUpdate.resx">
+      <DependentUpon>DriversUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Routes.resx">
+      <DependentUpon>Routes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RoutesAdd.resx">
+      <DependentUpon>RoutesAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RoutesMaps.resx">
+      <DependentUpon>RoutesMaps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RoutesUpdate.resx">
+      <DependentUpon>RoutesUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockAdd.resx">
+      <DependentUpon>StockAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockUpdate.resx">
+      <DependentUpon>StockUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicles.resx">
+      <DependentUpon>Vehicles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VehiclesAdd.resx">
+      <DependentUpon>VehiclesAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VehiclesService.resx">
+      <DependentUpon>VehiclesService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VehiclesUpdate.resx">
+      <DependentUpon>VehiclesUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Warehouse.resx">
+      <DependentUpon>Warehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Logistics_DBDataSet.xsc">
+      <DependentUpon>Logistics_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Logistics_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Logistics_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Logistics_DBDataSet.xss">
+      <DependentUpon>Logistics_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\truck_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery-man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\routes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warehouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\truck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery-truck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\packageIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cargo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kamion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hartiya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kashon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\konteiner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sandyk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trailer truck.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kamion2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google-maps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\service.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gtp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car-service.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floppy-disk.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>tasklist /fi "imagename eq iisexpress.exe" |find ":" &gt; nul
+if errorlevel 1 taskkill /f /im "iisexpress.exe"</PreBuildEvent>
+  </PropertyGroup>
+</Project>
